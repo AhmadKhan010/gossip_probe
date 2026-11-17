@@ -1,0 +1,28 @@
+[package]
+name = "gossip-probe"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.98.1"
+publish = false
+description = "Joins Solana gossip and measures how much arrives versus the leader contact-info changes the sidecar needs"
+
+# Standalone: not part of any parent workspace.
+[workspace]
+
+[dependencies]
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+crossbeam-channel = "0.5"
+ctrlc = "3"
+libc = "0.2"
+log = { version = "0.4", features = ["std"] }
+serde_json = "1"
+# Same Agave release as mainnet Jito 4.4.1. Bump all three together.
+solana-gossip = { version = "=4.4.1", features = ["agave-unstable-api"] }
+solana-net-utils = { version = "=4.4.1", features = ["agave-unstable-api"] }
+solana-rpc-client = "=4.4.1"
+solana-keypair = "4.0.0"
+solana-pubkey = "4.3.0"
+
+[profile.release]
+debug = 1
