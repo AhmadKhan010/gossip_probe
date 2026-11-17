@@ -1,0 +1,176 @@
+leader schedule: epoch 1089 (+ next), 652 leader identities
+joined gossip: id 3q8mLNouXbb78tb5dpwNvo7ME8ZQWkhTf59kiia8EMyn mode Gossip addr 147.182.163.245:8101 shred_version 50093 entrypoints [34.83.231.102:8001, 67.213.115.9:8001, 64.130.33.184:8001]
+running 7200 s; Ctrl-C to stop early
+[   60s] crds 14520 | pkts_rx 999/s | crds accepted 839/s rejected 392/s | contact-info 38171 total, addr changes 0 (leaders 0) | cpu 56.5% rss 150 MiB net_in 4.21 Mbit/s
+[  120s] crds 32005 | pkts_rx 3472/s | crds accepted 1833/s rejected 2864/s | contact-info 129403 total, addr changes 0 (leaders 0) | cpu 142.3% rss 205 MiB net_in 11.89 Mbit/s
+[  180s] crds 57942 | pkts_rx 4252/s | crds accepted 1944/s rejected 3439/s | contact-info 218674 total, addr changes 0 (leaders 0) | cpu 152.3% rss 276 MiB net_in 14.83 Mbit/s
+[  240s] crds 85398 | pkts_rx 3772/s | crds accepted 1994/s rejected 2622/s | contact-info 308327 total, addr changes 0 (leaders 0) | cpu 155.3% rss 349 MiB net_in 14.09 Mbit/s
+[  300s] crds 117844 | pkts_rx 5917/s | crds accepted 2087/s rejected 5109/s | contact-info 399608 total, addr changes 1 (leaders 0) | cpu 164.7% rss 437 MiB net_in 19.51 Mbit/s
+[  360s] crds 140766 | pkts_rx 7569/s | crds accepted 1957/s rejected 6944/s | contact-info 491658 total, addr changes 1 (leaders 0) | cpu 176.8% rss 504 MiB net_in 22.74 Mbit/s
+[  420s] crds 161801 | pkts_rx 6164/s | crds accepted 1882/s rejected 5344/s | contact-info 582120 total, addr changes 1 (leaders 0) | cpu 162.3% rss 562 MiB net_in 18.15 Mbit/s
+[  480s] crds 182208 | pkts_rx 4903/s | crds accepted 1910/s rejected 4082/s | contact-info 674935 total, addr changes 1 (leaders 0) | cpu 159.5% rss 615 MiB net_in 15.35 Mbit/s
+[  540s] crds 191358 | pkts_rx 4941/s | crds accepted 1761/s rejected 4186/s | contact-info 768842 total, addr changes 1 (leaders 0) | cpu 161.0% rss 638 MiB net_in 13.98 Mbit/s
+[  600s] crds 199084 | pkts_rx 4240/s | crds accepted 1658/s rejected 3319/s | contact-info 859021 total, addr changes 2 (leaders 0) | cpu 148.5% rss 658 MiB net_in 11.69 Mbit/s
+[  660s] crds 204651 | pkts_rx 3971/s | crds accepted 1617/s rejected 2995/s | contact-info 949428 total, addr changes 5 (leaders 0) | cpu 150.7% rss 672 MiB net_in 10.84 Mbit/s
+[  720s] crds 208888 | pkts_rx 3884/s | crds accepted 1603/s rejected 2725/s | contact-info 1038390 total, addr changes 6 (leaders 0) | cpu 151.1% rss 683 MiB net_in 10.25 Mbit/s
+[  781s] crds 212104 | pkts_rx 4482/s | crds accepted 1595/s rejected 3944/s | contact-info 1129689 total, addr changes 7 (leaders 0) | cpu 152.3% rss 694 MiB net_in 12.02 Mbit/s
+[  841s] crds 212896 | pkts_rx 4978/s | crds accepted 1559/s rejected 4594/s | contact-info 1219596 total, addr changes 9 (leaders 0) | cpu 161.5% rss 697 MiB net_in 13.13 Mbit/s
+[  901s] crds 214086 | pkts_rx 3636/s | crds accepted 1495/s rejected 2832/s | contact-info 1306852 total, addr changes 9 (leaders 0) | cpu 143.8% rss 700 MiB net_in 9.65 Mbit/s
+[  961s] crds 215510 | pkts_rx 3161/s | crds accepted 1565/s rejected 2429/s | contact-info 1397157 total, addr changes 11 (leaders 0) | cpu 141.3% rss 703 MiB net_in 8.80 Mbit/s
+[ 1021s] crds 216997 | pkts_rx 4443/s | crds accepted 1615/s rejected 3696/s | contact-info 1490729 total, addr changes 11 (leaders 0) | cpu 152.2% rss 708 MiB net_in 11.70 Mbit/s
+[ 1081s] crds 217750 | pkts_rx 6312/s | crds accepted 1538/s rejected 6337/s | contact-info 1580707 total, addr changes 11 (leaders 0) | cpu 160.8% rss 712 MiB net_in 16.60 Mbit/s
+[ 1141s] crds 218490 | pkts_rx 3716/s | crds accepted 1460/s rejected 2722/s | contact-info 1664773 total, addr changes 11 (leaders 0) | cpu 148.9% rss 714 MiB net_in 9.26 Mbit/s
+[ 1201s] crds 219294 | pkts_rx 4507/s | crds accepted 1539/s rejected 4067/s | contact-info 1755168 total, addr changes 11 (leaders 0) | cpu 149.3% rss 716 MiB net_in 12.05 Mbit/s
+[ 1261s] crds 219479 | pkts_rx 6243/s | crds accepted 1587/s rejected 6090/s | contact-info 1847867 total, addr changes 11 (leaders 0) | cpu 165.8% rss 718 MiB net_in 40.22 Mbit/s
+[ 1321s] crds 219953 | pkts_rx 5537/s | crds accepted 1582/s rejected 4759/s | contact-info 1940660 total, addr changes 11 (leaders 0) | cpu 163.3% rss 720 MiB net_in 13.83 Mbit/s
+[ 1381s] crds 220160 | pkts_rx 5293/s | crds accepted 1571/s rejected 4775/s | contact-info 2033169 total, addr changes 11 (leaders 0) | cpu 159.9% rss 720 MiB net_in 13.35 Mbit/s
+[ 1441s] crds 220263 | pkts_rx 4430/s | crds accepted 1519/s rejected 3927/s | contact-info 2121784 total, addr changes 11 (leaders 0) | cpu 155.6% rss 720 MiB net_in 11.56 Mbit/s
+[ 1501s] crds 220410 | pkts_rx 3630/s | crds accepted 1521/s rejected 2742/s | contact-info 2211391 total, addr changes 12 (leaders 0) | cpu 143.9% rss 720 MiB net_in 9.52 Mbit/s
+[ 1561s] crds 220645 | pkts_rx 5407/s | crds accepted 1571/s rejected 5251/s | contact-info 2302851 total, addr changes 12 (leaders 0) | cpu 159.1% rss 721 MiB net_in 14.36 Mbit/s
+[ 1621s] crds 220727 | pkts_rx 5044/s | crds accepted 1527/s rejected 4281/s | contact-info 2393116 total, addr changes 12 (leaders 0) | cpu 160.0% rss 721 MiB net_in 12.45 Mbit/s
+[ 1681s] crds 220803 | pkts_rx 4394/s | crds accepted 1576/s rejected 3843/s | contact-info 2485906 total, addr changes 12 (leaders 0) | cpu 149.6% rss 722 MiB net_in 11.48 Mbit/s
+[ 1741s] crds 220883 | pkts_rx 4179/s | crds accepted 1554/s rejected 3734/s | contact-info 2576431 total, addr changes 12 (leaders 0) | cpu 150.8% rss 722 MiB net_in 11.10 Mbit/s
+[ 1801s] crds 220960 | pkts_rx 4833/s | crds accepted 1552/s rejected 4378/s | contact-info 2668026 total, addr changes 12 (leaders 0) | cpu 151.6% rss 722 MiB net_in 12.56 Mbit/s
+[ 1861s] crds 221022 | pkts_rx 4508/s | crds accepted 1565/s rejected 4036/s | contact-info 2760771 total, addr changes 12 (leaders 0) | cpu 154.7% rss 722 MiB net_in 11.78 Mbit/s
+[ 1921s] crds 221086 | pkts_rx 5858/s | crds accepted 1558/s rejected 5555/s | contact-info 2851339 total, addr changes 12 (leaders 0) | cpu 158.5% rss 723 MiB net_in 14.79 Mbit/s
+[ 1981s] crds 221137 | pkts_rx 6475/s | crds accepted 1508/s rejected 6203/s | contact-info 2940497 total, addr changes 12 (leaders 0) | cpu 174.9% rss 723 MiB net_in 16.19 Mbit/s
+[ 2041s] crds 221207 | pkts_rx 5939/s | crds accepted 1596/s rejected 5655/s | contact-info 3033475 total, addr changes 12 (leaders 0) | cpu 185.3% rss 725 MiB net_in 15.66 Mbit/s
+[ 2101s] crds 221262 | pkts_rx 6817/s | crds accepted 1582/s rejected 6709/s | contact-info 3126957 total, addr changes 12 (leaders 0) | cpu 174.6% rss 726 MiB net_in 17.16 Mbit/s
+[ 2161s] crds 221339 | pkts_rx 7199/s | crds accepted 1567/s rejected 7137/s | contact-info 3219734 total, addr changes 12 (leaders 0) | cpu 175.1% rss 727 MiB net_in 17.92 Mbit/s
+[ 2221s] crds 221378 | pkts_rx 4239/s | crds accepted 1530/s rejected 3356/s | contact-info 3308674 total, addr changes 12 (leaders 0) | cpu 160.4% rss 727 MiB net_in 10.79 Mbit/s
+[ 2281s] crds 221450 | pkts_rx 5160/s | crds accepted 1523/s rejected 4554/s | contact-info 3398754 total, addr changes 12 (leaders 0) | cpu 165.7% rss 727 MiB net_in 13.28 Mbit/s
+[ 2341s] crds 221518 | pkts_rx 5221/s | crds accepted 1585/s rejected 4606/s | contact-info 3491263 total, addr changes 13 (leaders 0) | cpu 165.7% rss 727 MiB net_in 13.21 Mbit/s
+[ 2401s] crds 221591 | pkts_rx 3596/s | crds accepted 1491/s rejected 2633/s | contact-info 3579417 total, addr changes 14 (leaders 0) | cpu 149.4% rss 727 MiB net_in 9.16 Mbit/s
+[ 2462s] crds 221659 | pkts_rx 4043/s | crds accepted 1546/s rejected 3441/s | contact-info 3670731 total, addr changes 14 (leaders 0) | cpu 150.1% rss 728 MiB net_in 10.65 Mbit/s
+[ 2522s] crds 221710 | pkts_rx 3395/s | crds accepted 1542/s rejected 2751/s | contact-info 3760789 total, addr changes 14 (leaders 0) | cpu 156.1% rss 728 MiB net_in 9.27 Mbit/s
+[ 2582s] crds 221785 | pkts_rx 3480/s | crds accepted 1529/s rejected 2628/s | contact-info 3851048 total, addr changes 14 (leaders 0) | cpu 148.6% rss 728 MiB net_in 9.02 Mbit/s
+[ 2642s] crds 221861 | pkts_rx 5301/s | crds accepted 1575/s rejected 4959/s | contact-info 3942935 total, addr changes 16 (leaders 1) | cpu 167.0% rss 728 MiB net_in 13.70 Mbit/s
+[ 2702s] crds 221923 | pkts_rx 6635/s | crds accepted 1531/s rejected 6442/s | contact-info 4033605 total, addr changes 16 (leaders 1) | cpu 168.6% rss 729 MiB net_in 16.63 Mbit/s
+[ 2762s] crds 221973 | pkts_rx 6495/s | crds accepted 1514/s rejected 6571/s | contact-info 4122854 total, addr changes 16 (leaders 1) | cpu 166.6% rss 729 MiB net_in 16.73 Mbit/s
+[ 2822s] crds 222058 | pkts_rx 4598/s | crds accepted 1591/s rejected 3985/s | contact-info 4215947 total, addr changes 17 (leaders 2) | cpu 165.0% rss 505 MiB net_in 11.78 Mbit/s
+[ 2882s] crds 222119 | pkts_rx 4167/s | crds accepted 1552/s rejected 3367/s | contact-info 4307460 total, addr changes 17 (leaders 2) | cpu 160.1% rss 402 MiB net_in 10.82 Mbit/s
+[ 2942s] crds 222177 | pkts_rx 4402/s | crds accepted 1566/s rejected 3832/s | contact-info 4398888 total, addr changes 17 (leaders 2) | cpu 159.2% rss 408 MiB net_in 11.47 Mbit/s
+[ 3002s] crds 222240 | pkts_rx 4429/s | crds accepted 1489/s rejected 4037/s | contact-info 4486553 total, addr changes 17 (leaders 2) | cpu 149.8% rss 409 MiB net_in 11.62 Mbit/s
+[ 3062s] crds 222304 | pkts_rx 4332/s | crds accepted 1466/s rejected 3849/s | contact-info 4573040 total, addr changes 17 (leaders 2) | cpu 155.2% rss 411 MiB net_in 11.15 Mbit/s
+[ 3122s] crds 222359 | pkts_rx 5446/s | crds accepted 1494/s rejected 4879/s | contact-info 4659904 total, addr changes 17 (leaders 2) | cpu 156.4% rss 412 MiB net_in 13.68 Mbit/s
+[ 3182s] crds 222421 | pkts_rx 4913/s | crds accepted 1537/s rejected 4062/s | contact-info 4750894 total, addr changes 17 (leaders 2) | cpu 152.6% rss 413 MiB net_in 12.27 Mbit/s
+[ 3242s] crds 222481 | pkts_rx 4247/s | crds accepted 1560/s rejected 3305/s | contact-info 4842708 total, addr changes 17 (leaders 2) | cpu 158.3% rss 414 MiB net_in 11.07 Mbit/s
+[ 3302s] crds 222534 | pkts_rx 3893/s | crds accepted 1520/s rejected 2971/s | contact-info 4931216 total, addr changes 17 (leaders 2) | cpu 149.6% rss 415 MiB net_in 9.82 Mbit/s
+[ 3362s] crds 222582 | pkts_rx 4667/s | crds accepted 1559/s rejected 3903/s | contact-info 5023352 total, addr changes 17 (leaders 2) | cpu 153.3% rss 416 MiB net_in 12.02 Mbit/s
+[ 3422s] crds 222667 | pkts_rx 5033/s | crds accepted 1556/s rejected 4555/s | contact-info 5114030 total, addr changes 17 (leaders 2) | cpu 160.5% rss 417 MiB net_in 12.87 Mbit/s
+[ 3482s] crds 222738 | pkts_rx 4171/s | crds accepted 1461/s rejected 3304/s | contact-info 5199434 total, addr changes 17 (leaders 2) | cpu 149.8% rss 417 MiB net_in 10.39 Mbit/s
+[ 3542s] crds 222802 | pkts_rx 2801/s | crds accepted 1485/s rejected 1928/s | contact-info 5287931 total, addr changes 17 (leaders 2) | cpu 152.7% rss 418 MiB net_in 8.16 Mbit/s
+[ 3602s] crds 222871 | pkts_rx 5087/s | crds accepted 1596/s rejected 4479/s | contact-info 5380856 total, addr changes 17 (leaders 2) | cpu 161.7% rss 419 MiB net_in 13.03 Mbit/s
+[ 3662s] crds 222932 | pkts_rx 4314/s | crds accepted 1491/s rejected 3699/s | contact-info 5468889 total, addr changes 17 (leaders 2) | cpu 146.9% rss 419 MiB net_in 11.03 Mbit/s
+[ 3722s] crds 222976 | pkts_rx 5407/s | crds accepted 1577/s rejected 4890/s | contact-info 5560677 total, addr changes 18 (leaders 2) | cpu 156.3% rss 420 MiB net_in 13.60 Mbit/s
+[ 3782s] crds 223024 | pkts_rx 4411/s | crds accepted 1514/s rejected 3881/s | contact-info 5650300 total, addr changes 18 (leaders 2) | cpu 157.2% rss 421 MiB net_in 11.72 Mbit/s
+[ 3842s] crds 223063 | pkts_rx 4712/s | crds accepted 1559/s rejected 4281/s | contact-info 5742260 total, addr changes 18 (leaders 2) | cpu 165.1% rss 421 MiB net_in 12.43 Mbit/s
+[ 3902s] crds 223107 | pkts_rx 5090/s | crds accepted 1605/s rejected 4406/s | contact-info 5836215 total, addr changes 18 (leaders 2) | cpu 164.6% rss 422 MiB net_in 12.95 Mbit/s
+[ 3962s] crds 223152 | pkts_rx 7298/s | crds accepted 1647/s rejected 7277/s | contact-info 5930218 total, addr changes 18 (leaders 2) | cpu 178.2% rss 423 MiB net_in 18.55 Mbit/s
+[ 4022s] crds 223191 | pkts_rx 4688/s | crds accepted 1578/s rejected 3869/s | contact-info 6022337 total, addr changes 18 (leaders 2) | cpu 166.5% rss 424 MiB net_in 12.14 Mbit/s
+[ 4083s] crds 223248 | pkts_rx 4234/s | crds accepted 1590/s rejected 3792/s | contact-info 6116246 total, addr changes 18 (leaders 2) | cpu 162.9% rss 425 MiB net_in 11.30 Mbit/s
+[ 4143s] crds 223316 | pkts_rx 6512/s | crds accepted 1580/s rejected 6427/s | contact-info 6209652 total, addr changes 18 (leaders 2) | cpu 169.1% rss 425 MiB net_in 16.47 Mbit/s
+[ 4203s] crds 223368 | pkts_rx 5601/s | crds accepted 1588/s rejected 4769/s | contact-info 6302138 total, addr changes 18 (leaders 2) | cpu 164.0% rss 426 MiB net_in 13.91 Mbit/s
+[ 4263s] crds 223432 | pkts_rx 4333/s | crds accepted 1546/s rejected 3690/s | contact-info 6393375 total, addr changes 18 (leaders 2) | cpu 148.7% rss 427 MiB net_in 11.13 Mbit/s
+[ 4323s] crds 223486 | pkts_rx 4598/s | crds accepted 1492/s rejected 3880/s | contact-info 6480370 total, addr changes 18 (leaders 2) | cpu 152.1% rss 427 MiB net_in 11.62 Mbit/s
+[ 4383s] crds 223553 | pkts_rx 4605/s | crds accepted 1563/s rejected 3846/s | contact-info 6572607 total, addr changes 18 (leaders 2) | cpu 156.1% rss 428 MiB net_in 11.66 Mbit/s
+[ 4443s] crds 223590 | pkts_rx 4656/s | crds accepted 1525/s rejected 4102/s | contact-info 6662681 total, addr changes 18 (leaders 2) | cpu 160.2% rss 429 MiB net_in 11.90 Mbit/s
+[ 4503s] crds 223635 | pkts_rx 7073/s | crds accepted 1529/s rejected 6988/s | contact-info 6751847 total, addr changes 18 (leaders 2) | cpu 178.2% rss 429 MiB net_in 17.72 Mbit/s
+[ 4563s] crds 223673 | pkts_rx 6899/s | crds accepted 1564/s rejected 6435/s | contact-info 6844285 total, addr changes 18 (leaders 2) | cpu 168.0% rss 430 MiB net_in 16.98 Mbit/s
+[ 4623s] crds 223717 | pkts_rx 4528/s | crds accepted 1584/s rejected 4107/s | contact-info 6936653 total, addr changes 19 (leaders 2) | cpu 156.8% rss 431 MiB net_in 12.16 Mbit/s
+[ 4683s] crds 223777 | pkts_rx 5659/s | crds accepted 1567/s rejected 5458/s | contact-info 7029173 total, addr changes 19 (leaders 2) | cpu 164.2% rss 431 MiB net_in 14.77 Mbit/s
+[ 4743s] crds 223833 | pkts_rx 5271/s | crds accepted 1494/s rejected 5192/s | contact-info 7117352 total, addr changes 21 (leaders 2) | cpu 160.5% rss 432 MiB net_in 13.80 Mbit/s
+[ 4803s] crds 223879 | pkts_rx 5434/s | crds accepted 1526/s rejected 5339/s | contact-info 7206233 total, addr changes 21 (leaders 2) | cpu 160.3% rss 432 MiB net_in 14.13 Mbit/s
+[ 4863s] crds 223937 | pkts_rx 4037/s | crds accepted 1528/s rejected 3514/s | contact-info 7296447 total, addr changes 21 (leaders 2) | cpu 151.0% rss 433 MiB net_in 10.59 Mbit/s
+[ 4923s] crds 223989 | pkts_rx 3849/s | crds accepted 1545/s rejected 3137/s | contact-info 7386378 total, addr changes 21 (leaders 2) | cpu 150.5% rss 434 MiB net_in 10.00 Mbit/s
+[ 4983s] crds 224063 | pkts_rx 3193/s | crds accepted 1510/s rejected 2063/s | contact-info 7475657 total, addr changes 21 (leaders 2) | cpu 149.3% rss 434 MiB net_in 8.12 Mbit/s
+[ 5043s] crds 224129 | pkts_rx 3889/s | crds accepted 1573/s rejected 3213/s | contact-info 7568412 total, addr changes 23 (leaders 2) | cpu 153.9% rss 435 MiB net_in 10.16 Mbit/s
+[ 5103s] crds 224195 | pkts_rx 3514/s | crds accepted 1584/s rejected 2706/s | contact-info 7660785 total, addr changes 24 (leaders 2) | cpu 147.9% rss 435 MiB net_in 9.26 Mbit/s
+[ 5163s] crds 224267 | pkts_rx 5162/s | crds accepted 1571/s rejected 4569/s | contact-info 7753652 total, addr changes 24 (leaders 2) | cpu 162.1% rss 436 MiB net_in 13.16 Mbit/s
+[ 5223s] crds 224330 | pkts_rx 5392/s | crds accepted 1572/s rejected 4814/s | contact-info 7845206 total, addr changes 25 (leaders 2) | cpu 161.4% rss 437 MiB net_in 13.59 Mbit/s
+[ 5283s] crds 224375 | pkts_rx 3295/s | crds accepted 1573/s rejected 2384/s | contact-info 7938343 total, addr changes 26 (leaders 2) | cpu 147.4% rss 437 MiB net_in 8.57 Mbit/s
+[ 5343s] crds 224421 | pkts_rx 3993/s | crds accepted 1546/s rejected 3337/s | contact-info 8029475 total, addr changes 27 (leaders 2) | cpu 155.4% rss 438 MiB net_in 10.71 Mbit/s
+[ 5403s] crds 224479 | pkts_rx 4906/s | crds accepted 1543/s rejected 4195/s | contact-info 8119464 total, addr changes 27 (leaders 2) | cpu 151.7% rss 439 MiB net_in 12.45 Mbit/s
+[ 5463s] crds 224538 | pkts_rx 6808/s | crds accepted 1592/s rejected 6704/s | contact-info 8213427 total, addr changes 28 (leaders 2) | cpu 164.9% rss 439 MiB net_in 17.32 Mbit/s
+[ 5523s] crds 224581 | pkts_rx 6751/s | crds accepted 1610/s rejected 6424/s | contact-info 8307437 total, addr changes 29 (leaders 2) | cpu 170.0% rss 440 MiB net_in 16.94 Mbit/s
+[ 5583s] crds 224613 | pkts_rx 5940/s | crds accepted 1513/s rejected 5374/s | contact-info 8396808 total, addr changes 30 (leaders 2) | cpu 165.6% rss 440 MiB net_in 14.82 Mbit/s
+[ 5643s] crds 224676 | pkts_rx 4093/s | crds accepted 1486/s rejected 3245/s | contact-info 8484594 total, addr changes 30 (leaders 2) | cpu 168.2% rss 441 MiB net_in 10.50 Mbit/s
+[ 5704s] crds 224738 | pkts_rx 5287/s | crds accepted 1556/s rejected 4679/s | contact-info 8575055 total, addr changes 31 (leaders 2) | cpu 158.2% rss 442 MiB net_in 13.53 Mbit/s
+[ 5764s] crds 224795 | pkts_rx 4404/s | crds accepted 1556/s rejected 3591/s | contact-info 8666985 total, addr changes 33 (leaders 2) | cpu 148.5% rss 442 MiB net_in 11.19 Mbit/s
+[ 5824s] crds 224839 | pkts_rx 4618/s | crds accepted 1533/s rejected 3749/s | contact-info 8756358 total, addr changes 34 (leaders 2) | cpu 154.7% rss 443 MiB net_in 11.93 Mbit/s
+[ 5884s] crds 224874 | pkts_rx 4980/s | crds accepted 1569/s rejected 4299/s | contact-info 8848865 total, addr changes 34 (leaders 2) | cpu 163.2% rss 443 MiB net_in 12.71 Mbit/s
+[ 5944s] crds 224910 | pkts_rx 5050/s | crds accepted 1487/s rejected 4441/s | contact-info 8936646 total, addr changes 34 (leaders 2) | cpu 162.7% rss 444 MiB net_in 12.84 Mbit/s
+[ 6004s] crds 224941 | pkts_rx 4631/s | crds accepted 1474/s rejected 3965/s | contact-info 9022456 total, addr changes 34 (leaders 2) | cpu 156.3% rss 444 MiB net_in 11.86 Mbit/s
+[ 6064s] crds 224987 | pkts_rx 4227/s | crds accepted 1550/s rejected 3508/s | contact-info 9114091 total, addr changes 34 (leaders 2) | cpu 155.9% rss 444 MiB net_in 10.77 Mbit/s
+[ 6124s] crds 225043 | pkts_rx 3074/s | crds accepted 1535/s rejected 2113/s | contact-info 9203803 total, addr changes 37 (leaders 2) | cpu 148.0% rss 445 MiB net_in 8.07 Mbit/s
+[ 6184s] crds 225095 | pkts_rx 4031/s | crds accepted 1568/s rejected 3520/s | contact-info 9296235 total, addr changes 39 (leaders 2) | cpu 153.5% rss 445 MiB net_in 10.60 Mbit/s
+[ 6244s] crds 225139 | pkts_rx 5346/s | crds accepted 1538/s rejected 5023/s | contact-info 9386962 total, addr changes 39 (leaders 2) | cpu 166.7% rss 446 MiB net_in 13.77 Mbit/s
+[ 6304s] crds 225176 | pkts_rx 6120/s | crds accepted 1568/s rejected 6035/s | contact-info 9478417 total, addr changes 40 (leaders 2) | cpu 167.6% rss 446 MiB net_in 15.81 Mbit/s
+[ 6364s] crds 225221 | pkts_rx 6058/s | crds accepted 1551/s rejected 5803/s | contact-info 9570207 total, addr changes 40 (leaders 2) | cpu 165.7% rss 446 MiB net_in 15.56 Mbit/s
+[ 6424s] crds 225269 | pkts_rx 5834/s | crds accepted 1588/s rejected 5419/s | contact-info 9662912 total, addr changes 41 (leaders 2) | cpu 168.3% rss 447 MiB net_in 14.57 Mbit/s
+[ 6484s] crds 225315 | pkts_rx 4127/s | crds accepted 1514/s rejected 3302/s | contact-info 9752270 total, addr changes 43 (leaders 2) | cpu 154.9% rss 447 MiB net_in 10.33 Mbit/s
+[ 6544s] crds 225368 | pkts_rx 3891/s | crds accepted 1554/s rejected 3282/s | contact-info 9844089 total, addr changes 43 (leaders 2) | cpu 156.7% rss 448 MiB net_in 10.55 Mbit/s
+[ 6604s] crds 225425 | pkts_rx 6109/s | crds accepted 1589/s rejected 6278/s | contact-info 9936818 total, addr changes 43 (leaders 2) | cpu 170.2% rss 448 MiB net_in 16.16 Mbit/s
+[ 6664s] crds 225462 | pkts_rx 4911/s | crds accepted 1554/s rejected 4367/s | contact-info 10028639 total, addr changes 43 (leaders 2) | cpu 154.7% rss 449 MiB net_in 12.42 Mbit/s
+[ 6724s] crds 225492 | pkts_rx 4358/s | crds accepted 1582/s rejected 3622/s | contact-info 10120593 total, addr changes 44 (leaders 2) | cpu 153.7% rss 449 MiB net_in 11.18 Mbit/s
+[ 6784s] crds 225538 | pkts_rx 4392/s | crds accepted 1474/s rejected 3702/s | contact-info 10207656 total, addr changes 44 (leaders 2) | cpu 159.4% rss 450 MiB net_in 11.51 Mbit/s
+[ 6844s] crds 225580 | pkts_rx 4036/s | crds accepted 1480/s rejected 3319/s | contact-info 10294959 total, addr changes 44 (leaders 2) | cpu 155.0% rss 450 MiB net_in 10.76 Mbit/s
+[ 6904s] crds 225629 | pkts_rx 4966/s | crds accepted 1548/s rejected 4435/s | contact-info 10385499 total, addr changes 44 (leaders 2) | cpu 159.5% rss 450 MiB net_in 13.37 Mbit/s
+[ 6964s] crds 225669 | pkts_rx 4142/s | crds accepted 1422/s rejected 3299/s | contact-info 10468525 total, addr changes 44 (leaders 2) | cpu 146.9% rss 448 MiB net_in 10.42 Mbit/s
+[ 7024s] crds 225710 | pkts_rx 2768/s | crds accepted 1502/s rejected 1959/s | contact-info 10556610 total, addr changes 45 (leaders 2) | cpu 142.3% rss 449 MiB net_in 7.65 Mbit/s
+[ 7084s] crds 225773 | pkts_rx 3258/s | crds accepted 1583/s rejected 2201/s | contact-info 10649842 total, addr changes 46 (leaders 3) | cpu 151.2% rss 449 MiB net_in 8.52 Mbit/s
+[ 7144s] crds 225823 | pkts_rx 4939/s | crds accepted 1518/s rejected 4642/s | contact-info 10739701 total, addr changes 46 (leaders 3) | cpu 156.7% rss 449 MiB net_in 13.28 Mbit/s
+
+================ gossip-probe report ================
+mode Gossip, ran 7200 s (2.00 h), 652 leader identities
+
+-- network --
+interface (whole host): in 10970.9 MiB / 34701167 pkts (12.78 Mbit/s), out 14702.2 MiB / 44765481 pkts (17.13 Mbit/s)
+gossip packets received (gossip's own count): 34496707 (4791/s)
+
+-- CRDS values by type (accepted = new to us; rejected = duplicate or old) --
+type                          accepted push  accepted pull  rejected push  rejected pull
+ContactInfo                        10751924          65119       28822798            126
+DuplicateShred                            0          39424              0           2056
+EpochSlots                              490         163851              1           8378
+LowestSlot                              111            662              0              0
+SnapshotHashes                       232887           7313        1415833             15
+Vote                                      0          15098              0            787
+total accepted 11276879 (1566/s), rejected 30249994
+CRDS table entries now: 225856
+table_size: 225855
+num_nodes: 3855
+num_nodes_staked: 0
+num_pubkeys: 3855
+purged_values_size: 125893
+failed_inserts_size: 249
+
+-- contact info (what the sidecar needs) --
+                                      all nodes      leaders
+accepted contact-info entries          10820171       935724
+  first seen (table fill)                  3855          652
+  address changed                            46            3
+  restart, same addresses               1709562            0
+  republish, nothing changed            9106708       935069
+removed                                       0            0
+nodes known now: 3855
+useful after the table filled: 3 leader address changes/removals = 0.000027 % of accepted CRDS values, 0.000028 % of accepted contact-info entries
+details: gossip-changes.csv
+
+-- cost --
+process CPU 11324.5 s = 157.28 % of one core on average; RSS 450 MiB (peak 728 MiB)
+CPU by thread (s, % of one core):
+  solGossipCons           4972.0   69.05%
+  solGossipWork           2303.6   31.99%
+  solGossipListen         1151.2   15.99%
+  solRcvrGossip            888.1   12.33%
+  solRspndrGossip          779.7   10.83%
+  solGossipRun             487.3    6.77%
+  solGossipConsum          441.9    6.14%
+  probeContacts            187.4    2.60%  (probe's own counting)
+  solGossip                 79.2    1.10%
+  solMetricsAgent           32.8    0.46%
+  gossip-probe               0.9    0.01%
+  solGossipMetr              0.3    0.00%
+all datapoint fields: gossip-datapoints.csv
+=====================================================
