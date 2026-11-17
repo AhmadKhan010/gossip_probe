@@ -26,3 +26,14 @@ solana-pubkey = "4.3.0"
 
 [profile.release]
 debug = 1
+
+# Agave 4.4.1's own patches (its workspace Cargo.toml). The crates.io solana-ledger is written
+# against Anza's rust-rocksdb fork (`new_pinnable_slice`, `get_pinned_cf_into`, …), so the stock
+# rocksdb from crates.io doesn't compile with it. Keep these revs in step with the Agave version.
+[patch.crates-io]
+blstrs = { git = "https://github.com/anza-xyz/blstrs", rev = "a1faffa3420bdaf4102425c43f00cdd815d4f145" }
+crossbeam-epoch = { git = "https://github.com/anza-xyz/crossbeam", rev = "5ee1c6ec671d94db14ed9238eb99e59a84555aad" }
+librocksdb-sys = { git = "https://github.com/anza-xyz/rust-rocksdb", rev = "4dba80dfe9434e595a971f5b2985ff9ba4fb31e7" }
+rocksdb = { git = "https://github.com/anza-xyz/rust-rocksdb", rev = "4dba80dfe9434e595a971f5b2985ff9ba4fb31e7" }
+rustls-webpki = { git = "https://github.com/anza-xyz/rustls-webpki", tag = "anza-0.103.10-2" }
+rustls-webpki2 = { git = "https://github.com/anza-xyz/rustls-webpki", package = "rustls-webpki", tag = "anza-0.101.7-2" }

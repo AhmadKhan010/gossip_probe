@@ -47,7 +47,11 @@ cd gossip-probe && cargo build --release
 ```
 
 `solana-gossip`, `solana-net-utils` and `solana-rpc-client` are pinned to `=4.4.1` (mainnet Jito). For
-another release, change all three together.
+another release, change all three together, **and** copy that release's `[patch.crates-io]` revs from
+Agave's workspace `Cargo.toml`:
+
+- `solana-ledger` only compiles against Anza's `rust-rocksdb` fork, not the crates.io `rocksdb`.
+- Cargo may warn that some patches are unused. That's harmless.
 
 ## Run
 
